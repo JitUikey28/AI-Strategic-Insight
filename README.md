@@ -209,13 +209,6 @@ No GPU required. No paid APIs. No external databases.
 
 ---
 
-## Proposal Document
-
-Full research proposal with complete methodology, all 5 strategic insights, evaluation scores, backtesting analysis, and future research agenda:
-
-[View Proposal Document](https://docs.google.com/document/d/1-b36vIfYb2wdz-KNLIKRcJEBgRSHtzX-/edit?usp=drive_link&ouid=106361518792433288565&rtpof=true&sd=true)
-
----
 
 ## License
 
