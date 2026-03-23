@@ -1,0 +1,10 @@
+[
+  {
+    "anticipation_score": 0.5,
+    "what_it_got_right": "The AI-generated insights touch on the potential risks and unintended consequences of CRISPR gene editing, such as unequal access and environmental risks, which are related to the biosecurity threat models.",
+    "what_it_missed": "The insights do not explicitly mention the potential for non-state actors to create biological weapons using CRISPR gene editing, which is a key aspect of the known implication.",
+    "closest_insight": "The insight that 'Unregulated CRISPR Cas9 technology may spur environmental policy reforms as ecosystem risks escalate' comes closest to anticipating the biosecurity implications, as it hints at the potential for uncontrolled use of the technology to have significant consequences.",
+    "case_name": "CRISPR \u2192 Biosecurity",
+    "papers_used": 8
+  }
+]
