@@ -2,7 +2,6 @@
 
 > **Using Frontier AI to Derive Non-Obvious Strategic Implications from Scientific and Technical Knowledge**
 > 
-> Built as part of the MATS Application — Jeff Alstott Research Stream
 
 ---
 
@@ -216,4 +215,3 @@ MIT License — free to use, modify, and build on.
 
 ---
 
-*Built for the MATS Program — Jeff Alstott Research Stream*
